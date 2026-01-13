@@ -11,7 +11,7 @@ I’m comfortable wearing many hats and working throughout any technology stack.
 ```js
 const laura = {
     code: ["JavaScript", "TypeScript", "PHP", "C#", "Swift", "VB"],
-    frameworks: ["Vue", "React", "AngularJS", "Laravel", ".NET", "Foundation"],
+    frameworks: ["Vue", "React", "AngularJS", "Laravel", ".NET", "Firebase", "Foundation"],
     persistence: ["MS SQL", "MySQL", "MongoDB", "GraphQL", "Firestore"],
     ui: ["Bootstrap", "FormKit", "Material UI", "Ionic Framework", "SwiftUI"],
     css: ["Tailwind", "Sass", "Less"],
