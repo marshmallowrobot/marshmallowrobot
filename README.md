@@ -10,14 +10,13 @@ I’m comfortable wearing many hats and working throughout any technology stack.
 
 ```js
 const laura = {
-    code: ["JavaScript", "TypeScript", "PHP", "C#", "Swift", "VB"],
-    frameworks: ["Vue", "React", "AngularJS", "Laravel", ".NET", "Firebase", "Foundation"],
-    persistence: ["MS SQL", "MySQL", "MongoDB", "GraphQL", "Firestore"],
-    ui: ["Bootstrap", "FormKit", "Material UI", "Ionic Framework", "SwiftUI"],
-    css: ["Tailwind", "Sass", "Less"],
-    testing: ["Jest", "Mocha", "Jasmine", "Vitest", "PHPUnit"],
+    code: ["JavaScript", "TypeScript", "PHP", "Node.js", "C#", "Swift", "VB", "Java", "Ruby", "C", "Perl", "Lisp", "Smalltalk"],
+    frameworks: ["Vue", "React", "AngularJS", "Laravel", "Zend", "NestJS","Hapi", "Firebase", ".NET"],
+    persistence: ["MS SQL", "MySQL", "MongoDB", "Azure Cosmos DB", "GraphQL", "Firestore"],
+    ui: ["Bootstrap", "FormKit", "Tailwind", "Material UI", "Ionic", "Sass", "Less"],
+    testing: ["Jest", "Jasmine", "Vitest", "Mocha", "Chai", "PHPUnit", "Kahlan", "Enzyme"],
     builds: ["Vite", "Webpack", "Gulp", "Grunt", "Browserify"],
-    tools: ["Jira", "Lucidchart", "Postman", "Balsamiq", "Pixelmator Pro", "Splunk"],
+    tools: ["Jira", "Lucidchart", "Postman", "Splunk", "Balsamiq", "Pixelmator Pro"],
   };
 ```
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@littlelaura-0a66c2?link=https://www.linkedin.com/in/littlelaura)](https://www.linkedin.com/in/littlelaura)
